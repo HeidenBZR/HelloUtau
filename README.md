@@ -1,6 +1,4 @@
 # HelloUtau
-"Hello World"-like simplest utau plugin, just to see how it works, or "How to write an utau plugin?"
-
 It's been a long time since I wanted to write an utau plugin, and if I had have such an example, I'd have written some plugin years ago. Actually there's the lack of utau programming tutorials.
 Some things which wasn't clear for me, and which I was messing with for a long:
 1. Don't use PyQt. When compiled, it never run, and I still dunno why. Use PySide, it's all nice the code is actually the same. I don't get it, to be honest.
