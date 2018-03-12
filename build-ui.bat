@@ -1,0 +1,1 @@
+pyside-uic "ui/mainWindow.ui" > ui.py
