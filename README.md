@@ -1,7 +1,5 @@
 # HelloUtau
-"Hello World"-like simplest utau plugin, just to see how it works
-
-"How to write an utau plugin?"
+"Hello World"-like simplest utau plugin, just to see how it works, or "How to write an utau plugin?"
 
 It's been a long time since I wanted to write an utau plugin, and if I had have such an example, I'd have written some plugin years ago. Actually there's the lack of utau programming tutorials.
 Some things which wasn't clear for me, and which I was messing with for a long:
